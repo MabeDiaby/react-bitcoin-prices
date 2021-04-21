@@ -14,7 +14,7 @@ npm install
 code .
 npm run start
 ```
-## We Do: [React Bitcoin Prices](https://git.generalassemb.ly/SEIR-1130/react-bitcoin-prices) Setup
+## We Do: [React Bitcoin Prices](https://git.generalassemb.ly/SEIR-32221/react-bitcoin-prices?organization=SEIR-32221&organization=SEIR-32221) Setup
 
 Let's get set up with the react bitcoin price checker!
 
