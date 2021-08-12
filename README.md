@@ -1,4 +1,4 @@
-## SEIR322 April 21, 2021
+## SEI 712 August 12, 2021
 
 # React Router/Bitcoin price checker 
 
