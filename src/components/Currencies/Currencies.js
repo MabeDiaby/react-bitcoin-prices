@@ -1,5 +1,6 @@
 import React from "react";
 import "./Currencies.css";
+import { Link } from "react-router-dom";
 import listOfCurrencies from "./list.json";
 
 const Currencies = () => {
@@ -7,7 +8,7 @@ const Currencies = () => {
       return (
         <div className="currency" key={item.currency}>
           <p>
-            <a href={"/price/" + item.currency}>{item.currency}</a>:{" "}
+            <Link to={"/price/" + item.currency}>{item.currency}</Link>:{" "}
             {item.country}
           </p>
         </div>
